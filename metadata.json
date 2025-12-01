@@ -1,0 +1,7 @@
+{
+  "name": "Pet Care Manager",
+  "description": "Eine umfassende App zur Verwaltung Ihrer Haustiere. Organisieren Sie Tierarzttermine, Fütterungspläne und bewahren Sie schöne Erinnerungen in der Galerie auf.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
